@@ -1,4 +1,10 @@
-## Hi there 👋
+## RAWR
+Hi, 
+Ever accidentally build things that should not exist? \
+You start simply start a project thinking I will hit a wall and give up, I will be free then!! \
+And then the walls just keep crumbling... and suddenly you build a declarative TUI framework in nothing but bash. 
+And then it is not even that bad... 
+
 
 <!--
 **DinosaursAreCute/DinosaursAreCute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
